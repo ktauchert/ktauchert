@@ -8,8 +8,11 @@ Hier sind einige meiner Kernkompetenzen:
 - **Tools:** Git, Jest, Cypress, Figma
 
 **Meine aktuellen Projekte:**
-- **[AI-Präsentations-App](Link zum Repo):** KI-gestützte App zur automatischen Präsentationserstellung.
-- **[SEO-Analyse-App](Link zum Repo):** Webanwendung zur Analyse und Optimierung von Webinhalten.
-- Weitere Projekte und Demos finden Sie auf meiner Webseite: [ktauchert.de](https://ktauchert.de)
+- **[AI-Präsentations-App (Work in Progress)](https://github.com/ktauchert/slide-flow):** Ein KI-gestütztes Tool zur automatischen Erstellung und Visualisierung von Präsentationen aus Text, PDFs oder Tabellen. Aktuell in Entwicklung – ein kleiner Vorgeschmack findet sich auf meiner Webseite!
+- **[SEO-Analyse-App](https://github.com/ktauchert/seo-elevation-operator-v2):** Webanwendung zur Analyse und Optimierung von Webinhalten.
+- **[Meditations-App](https://github.com/ktauchert/meditation-app):** Eine einfache Meditations-App, entwickelt mit Expo React Native und TypeScript.
+- **[Mein Portfolio-Repository](https://github.com/ktauchert/ktauchert.de):** Hier finden Sie den Code meiner persönlichen Webseite und weitere Informationen zu meinen Projekten.
+
+Weitere Demos und Einblicke in meine Arbeit finden Sie direkt auf meiner Webseite: [ktauchert.de](https://ktauchert.de)
 
 Kontaktiere mich gerne unter: developer@ktauchert.de
