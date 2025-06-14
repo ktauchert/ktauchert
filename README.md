@@ -1,6 +1,6 @@
 ### Hi, ich bin Karsten Tauchert 👋
 
-Ich bin ein erfahrener **React Frontend Developer** mit Leidenschaft für sauberen Code, intuitive User Interfaces und performante Webanwendungen. Mein Fokus liegt auf der Entwicklung mit **React, Next.js und TypeScript**.
+Ich bin ein erfahrener **React Frontend Developer** mit Leidenschaft für sauberen Code, intuitive User Interfaces und performante Webanwendungen. Mein Fokus liegt auf der Entwicklung mit **React, Next.js und TypeScript**, ergänzt durch ein **fundiertes Verständnis für Backend-Prozesse**.
 
 Hier sind einige meiner Kernkompetenzen:
 - **Frontend:** ReactJS, Next.js, TypeScript, TailwindCSS, SvelteKit, React Native
