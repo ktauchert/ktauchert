@@ -12,7 +12,7 @@ Hier sind einige meiner Kernkompetenzen:
 - **[SEO-Analyse-App (Live-Demo)](https://www.seo-elevation-operator.com):** Eine Webanwendung zur Analyse und Optimierung von Webinhalten. **Code auf GitHub:** [ktauchert/seo-elevation-operator-v2](https://github.com/ktauchert/seo-elevation-operator-v2)
 - **[Meditations-App](https://github.com/ktauchert/meditation-app):** Eine einfache Meditations-App, entwickelt mit Expo React Native und TypeScript.
 - **[Eigenes PHP MVC Framework](https://github.com/ktauchert/schauwiediebaeumelaufen):** Ein von Grund auf selbst entwickeltes PHP Model-View-Controller Framework, das mein fundiertes Verständnis für Webarchitekturen und Systemdesign vor meiner Spezialisierung auf React belegt.
-- **[Mein Portfolio-Repository](https://github.com/ktauchert/ktauchert.de):** Hier finden Sie den Code meiner persönlichen Webseite und weitere Informationen zu meinen Projekten.
+- **[Mein Portfolio-Repository](https://github.com/ktauchert/portfolio-ktauchert-v2):** Hier finden Sie den Code meiner persönlichen Webseite und weitere Informationen zu meinen Projekten.
 
 Weitere Demos und Einblicke in meine Arbeit finden Sie direkt auf meiner Webseite: [ktauchert.de](https://ktauchert.de)
 
