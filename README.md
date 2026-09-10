@@ -1,19 +1,74 @@
-### Hi, ich bin Karsten Tauchert 👋
+# Hi, I'm Karsten Tauchert
 
-Ich bin ein erfahrener **React Frontend Developer** mit Leidenschaft für sauberen Code, intuitive User Interfaces und performante Webanwendungen. Mein Fokus liegt auf der Entwicklung mit **React, Next.js und TypeScript**, ergänzt durch ein **fundiertes Verständnis für Backend-Prozesse**.
+Software Engineer focused on full-stack product development and building
+maintainable software that solves real-world problems.
 
-Hier sind einige meiner Kernkompetenzen:
-- **Frontend:** ReactJS, Next.js, TypeScript, TailwindCSS, SvelteKit, React Native
-- **Backend (Grundlagen):** Node.js, PHP, Firebase, Supabase
-- **Tools:** Git, Jest, Cypress, Figma
+My work spans product architecture, backend and frontend development,
+quality assurance, mobile applications, and AI-assisted engineering workflows.
 
-**Meine aktuellen Projekte:**
-- **[AI-Präsentations-App (Work in Progress)](https://ktauchert.de/ai-presentation-app-teaser):** Ein KI-gestütztes Tool zur automatischen Erstellung und Visualisierung von Präsentationen aus Text, PDFs oder Tabellen. Aktuell in Entwicklung – ein kleiner Vorgeschmack findet sich auf meiner Webseite!
-- **[SEO-Analyse-App (Live-Demo)](https://www.seo-elevation-operator.com):** Eine Webanwendung zur Analyse und Optimierung von Webinhalten. **Code auf GitHub:** [ktauchert/seo-elevation-operator-v2](https://github.com/ktauchert/seo-elevation-operator-v2)
-- **[Meditations-App](https://github.com/ktauchert/meditation-app):** Eine einfache Meditations-App, entwickelt mit Expo React Native und TypeScript.
-- **[Eigenes PHP MVC Framework](https://github.com/ktauchert/schauwiediebaeumelaufen):** Ein von Grund auf selbst entwickeltes PHP Model-View-Controller Framework, das mein fundiertes Verständnis für Webarchitekturen und Systemdesign vor meiner Spezialisierung auf React belegt.
-- **[Mein Portfolio-Repository](https://github.com/ktauchert/portfolio-ktauchert-v2):** Hier finden Sie den Code meiner persönlichen Webseite und weitere Informationen zu meinen Projekten.
+Based in Potsdam, Germany.
 
-Weitere Demos und Einblicke in meine Arbeit finden Sie direkt auf meiner Webseite: [ktauchert.de](https://ktauchert.de)
+## Featured Work
 
-Kontaktiere mich gerne unter: developer@ktauchert.de
+### [Gridnull](https://www.gridnull.com)
+
+A private-source, on-premises backlog operations platform for GitHub and
+GitLab teams.
+
+Gridnull synchronises issue data, identifies stale, blocked, and duplicate
+tickets, and provides locally generated AI suggestions with human approval,
+controlled write-back, audit history, and rollback support.
+
+Built with Next.js, TypeScript, PostgreSQL, Prisma, Redis, BullMQ, Docker,
+Ollama, Vitest, and Playwright.
+
+### [Dev-Companion](https://github.com/ktauchert/dev-companion) · Work in Progress
+
+A documentation-first SDLC companion for indie and solo developers.
+
+The project explores versioned engineering artefacts, modular product
+architecture, and structured AI-assisted workflows without replacing
+developer ownership and decision-making.
+
+Built with Next.js, NestJS, TypeScript, and PostgreSQL.
+
+### [Personal Portfolio](https://ktauchert.de)
+
+My personal website and project portfolio, built with Next.js and TypeScript.
+
+[View source](https://github.com/ktauchert/portfolio-ktauchert-v2)
+
+### [Balkonkonzert](https://github.com/ktauchert/balkonkonzert)
+
+A React Native application for managing personal bird feeding stations,
+scheduled reminders, push notifications, and expected bird activity.
+
+Built with React Native, Expo, TypeScript, and Firebase.
+
+## Core Technologies
+
+**Languages:** JavaScript, TypeScript, PHP, Python, SQL
+
+**Frontend:** React, Next.js, SvelteKit, React Native, HTML, CSS, SCSS
+
+**Backend:** PHP, Yii 1.1, Node.js, NestJS, REST APIs
+
+**Data & Infrastructure:** PostgreSQL, MariaDB, Redis, Prisma, Docker, Linux
+
+**Quality:** Playwright, Cypress, Vitest, PHPUnit, CI/CD
+
+**AI-Assisted Engineering:** Cursor, Codex, OpenAI APIs, Ollama, Agentic Workflows
+
+## What I Value
+
+- Software that solves real user and business problems
+- Maintainable architecture and clearly documented decisions
+- Quality built into the development process
+- Responsible use of AI-assisted development tools
+- Technical decisions made in the context of the complete product
+
+## Contact
+
+[Website](https://ktauchert.de) ·
+[LinkedIn](https://www.linkedin.com/in/ktauchert) ·
+[Email](mailto:developer@ktauchert.de)
